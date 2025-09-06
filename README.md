@@ -1,6 +1,18 @@
-# PF-Lab03-0673
-👋 Hi, I’m Hammad Ahmed
-💻 19 y/o | BSCS student at FAST University
-🚀 Passionate about coding, problem-solving, and exploring new technologies
-🌱 Currently learning and building projects to sharpen my skills
-⚡ Always curious, always improving
+# PF-Lab03-0673 
+## this is my heading
+
+### This is my ordered list
+1. Hello world
+2. My name is Hammad
+3. My rolll number is 25k-0673
+
+### This is my unordered list
+- I am studying at FAST University
+- My program is BsCs
+- My aim is a 3.5+ gpa
+
+*I like watching Movies*
+**I also like to play table tennis**
+***I like Maths as its fun to solve problems***
+
+
